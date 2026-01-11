@@ -44,14 +44,4 @@ The goal was to match the design **as close as possible to the original (pixel-p
 - **CSS Variables for design tokens**
 
 ---
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-
-git clone https://github.com/MysticalFlame3/dashboard.git
-cd dashboard
-Install dependencies
-npm install
-npm run dev
 
